@@ -1,0 +1,4 @@
+ccxt
+rich
+matplotlib
+pandas
